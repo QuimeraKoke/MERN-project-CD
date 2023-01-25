@@ -1,0 +1,22 @@
+form > div {
+    background-color: #f1f1f1;
+    padding: 20px 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+label {
+    color: gray;
+}
+
+table, form {
+    display: inline-block;
+}
+
+form button {
+    height: 50px;
+    width: 200px;
+    font-size: 1em;
+}
